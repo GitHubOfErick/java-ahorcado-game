@@ -1,18 +1,11 @@
-## Getting Started
+# Spanis game called Ahorcado made on Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This is an Spanish game called ahorcado, which consist in guessing a secret word by entering one single letter at a time until the player hits the whole secret word. If player runs out of attempts, then the game ends.
 
-## Folder Structure
+## What tools I used?
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1. Use of variables.
+2. Scanner class to read whatever the user inputs.
+3. Arrays: char class.
+4. Cycles: for and while.
+5. Conditional structure: if-else.
